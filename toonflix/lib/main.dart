@@ -4,6 +4,7 @@ import 'package:toonflix/widgets/card.dart';
 
 void main() {
   runApp(const App());
+  print('hello world');
 }
 
 class App extends StatelessWidget {
